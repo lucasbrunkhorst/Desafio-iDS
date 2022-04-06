@@ -1,6 +1,6 @@
 <h1 align="center">Desafio de Programação iDev</h1>
 <br>
-<h2 align="center">Olá meu nome é Lucas Brunkhorst e essa é minha resolução para os desafios iDevs</h2>
+<h2 align="center">Olá meu nome é Lucas Brunkhorst e essas são minhas resoluçoes para os desafios iDevs</h2>
 <br>
 <h3 align="center">Ferramenta utilizada IntelliJ IDEA Community Edition.</h3>
 <br>
